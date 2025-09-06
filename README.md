@@ -103,8 +103,3 @@ venv/: Virtual environment for Python dependencies.
 
 .vscode/: VS Code workspace settings.
 
-📄 License
-
-Specify the license under which your project is distributed. For example:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
